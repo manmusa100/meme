@@ -1,0 +1,43 @@
+<html>
+<title>meru university environmen[tal organisation</title>
+<h1><u>GREENBELT ORGANISATION</u></h1>
+<hr>
+<body>
+<a href = "oganisation description.html">ABOUT US</a> 
+<a href = "login.html">login</a>
+<a href = "form application.html">REGESTER</a>
+<a href="blankpage.html">images</a>
+<p>Incase you need any assistance you can click on help tab to  contact the referees.</p>
+
+<a href="Help.html">Help</a>
+
+<body background="IMG-20190819-WA0036.jpg"/>
+
+<p>The organisation was started by a group of pioneers in the year 1978.This was due to rapid increase in global warming.The main aim of this organisation was to curb the problem in the univesity surrounding though it has increased its functionality to the national levels.</p>
+<p>Global organisation begun with only few members but its population has drastically increased to millions of people due to it branching to various parts of the nation.In the main branch we have the following members:</p>
+
+<table border="1">
+<caption>main branch members</caption>
+<tr>
+<font color="yellow"><th>members</th><th>year registered<th>rank</th></tr>
+<tr><td>Mr Gichuru</td><td>1978</td><td>chairperson</td></tr>
+<tr><td>Mr munialo</td><td>1978</td><td>treasurer</td></tr>
+<tr><td>Madam piera</td><td>1978</td><td>secretary</td></tr>
+<tr><td>Mr chege</td><td>1978</td><td>member</td></tr>
+<tr><td>Mr mwenda</td><td>1978</td><td>member</td></tr>
+<tr><td>Madam rahab</td><td>1982</td><td>member</td></tr>
+<tr><td>mr ikiara</td><td>1990</td><td>member</td></tr>
+<tr><td>Madam dorcas</td><td>1998</td><td>member</td></tr>
+<tr><td>Mr kimaiyo</td><td>2000</td><td>member</td></tr>
+<tr><td>Mr kimathi</td><td>2002</td><td>member</td></tr>
+<tr><td>Mrs john</td><td>2006</td><td>member</td></tr>
+<tr><td>Mr paul</td><td>2010</td><td>member</td></tr>
+<tr><td>Mr moses</td><td>2013</td><td>member</td></tr>
+<tr><td>Madam bush</td><td>2017</td><td>member</td></tr>
+</tr>
+</table>
+
+</body>
+</html>
+</body>
+</html>
